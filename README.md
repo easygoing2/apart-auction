@@ -2,7 +2,10 @@
 
 지역별 아파트 법원경매 물건을 쉽고 빠르게 탐색할 수 있는 웹사이트입니다.
 
-배포 사이트: [auction-home-korea.topgun8127.chatgpt.site](https://auction-home-korea.topgun8127.chatgpt.site)
+배포 사이트:
+
+- [GitHub Pages](https://easygoing2.github.io/apart-auction/)
+- [OpenAI Sites](https://auction-home-korea.topgun8127.chatgpt.site)
 
 ## 주요 기능
 
@@ -31,7 +34,10 @@ npm run dev
 
 ```bash
 npm run build
+npm run build:pages
 ```
+
+GitHub Pages를 포함한 개발·검증·자동 배포 과정은 [GitHub Pages 배포 흐름](docs/GITHUB_PAGES_FLOW.md)에 자세히 정리되어 있습니다.
 
 ## 기술 구성
 
